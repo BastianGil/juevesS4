@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Semana 4 juevea</string>
+
+    <string name="btn_title_main">Ir al formulario</string>
+    <string name="tv_status_main">Ir al formulario</string>
+
+    <string name="hint_userform_name">¿como te llamas?</string>
+    <string name="hint_userform_email">Tu contraseña</string>
+    <string name="hint_userform_username">Usuario</string>
+
+    <string name="btn_title_userform">completar</string>
+
+
+</resources>
